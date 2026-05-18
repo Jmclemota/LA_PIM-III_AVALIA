@@ -1,10 +1,10 @@
-# 🔷 UML – Projeto Avalia+
+# LA_UML – Projeto Avalia+
 
 Esta pasta contém os diagramas UML do projeto Avalia+, representando a estrutura e o comportamento do sistema.
 
 ---
 
-## 📋 Sobre os Diagramas UML
+##  Sobre os Diagramas UML
 
 | Diagrama | Finalidade |
 |----------|-----------|
