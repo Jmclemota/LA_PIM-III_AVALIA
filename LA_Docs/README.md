@@ -1,4 +1,4 @@
-# 📄 Docs – Projeto Avalia+
+# LA_Docs – Projeto Avalia+
 
 Esta pasta contém toda a documentação técnica e acadêmica do projeto Avalia+, elaborada como parte do **Projeto Integrado Multidisciplinar (PIM III)**.
 
