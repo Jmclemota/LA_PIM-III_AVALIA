@@ -1,10 +1,10 @@
-# 🔀 Fluxo de Usuário – Projeto Avalia+
+# LA_Fluxo de Usuário – Projeto Avalia+
 
 Esta pasta contém os diagramas de fluxo de navegação dos usuários da plataforma Avalia+, organizados por perfil de acesso.
 
 ---
 
-## 📁 Arquivos
+##  Arquivos
 
 | Arquivo | Perfil |
 |---------|--------|
@@ -14,7 +14,7 @@ Esta pasta contém os diagramas de fluxo de navegação dos usuários da platafo
 
 ---
 
-## 📋 Sobre os Fluxos
+##  Sobre os Fluxos
 
 Os fluxos de usuário mapeiam a **navegação dentro da plataforma** para cada perfil, mostrando as telas disponíveis e os caminhos possíveis a partir de cada ação.
 
