@@ -1,10 +1,10 @@
-# 📐 Diagramas – Projeto Avalia+
+# LA_Diagramas – Projeto Avalia+
 
 Esta pasta reúne todos os diagramas e modelos visuais produzidos durante o desenvolvimento do projeto Avalia+.
 
 ---
 
-## 📁 Estrutura
+##  Estrutura
 
 | Pasta | Conteúdo |
 |-------|---------|
@@ -14,6 +14,6 @@ Esta pasta reúne todos os diagramas e modelos visuais produzidos durante o dese
 
 ---
 
-## 📋 Sobre os Diagramas
+##  Sobre os Diagramas
 
 Os diagramas representam graficamente a estrutura e o funcionamento do sistema Avalia+. Eles foram elaborados durante a **Sprint 2** e são fundamentais para guiar o desenvolvimento técnico da plataforma.
