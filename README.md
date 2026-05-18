@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Plataforma web de avaliação acadêmica para estudantes do ensino superior</b><br/>
-  LA_PIM III – Projeto Integrado Multidisciplinar | ADS – UNIP 2026-1
+  PIM III – Projeto Integrado Multidisciplinar | ADS – UNIP 2026-1
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ---
 
-## 📌 Descrição do Desafio
+## LA_Descrição do Desafio
 
 Estudantes do ensino superior enfrentam dificuldades na preparação para avaliações acadêmicas por falta de ferramentas acessíveis e direcionadas. O **Avalia+** surge para resolver esse problema, oferecendo uma plataforma web onde alunos podem realizar simulados gerados automaticamente a partir de um banco de questões, acompanhar seu desempenho e identificar pontos de melhoria — tudo de forma gratuita e intuitiva.
 
 ---
 
-## 📋 Backlog de Produto
+## LA_Backlog de Produto
 
 | ID | Funcionalidade | Prioridade | Status |
 |----|---------------|------------|--------|
@@ -38,7 +38,7 @@ Estudantes do ensino superior enfrentam dificuldades na preparação para avalia
 
 ---
 
-## 🗓️ Cronograma de Sprints
+## LA_Cronograma de Sprints
 
 ```
 Sprint 1 ──────────────────────────────── ✅ Concluída
@@ -56,7 +56,7 @@ Sprint 4 ───────────────────────�
 
 ---
 
-## 📅 Tabela de Sprints
+## LA_Tabela de Sprints
 
 | Sprint | Período | Documentação | Vídeo de Entrega |
 |--------|---------|-------------|-----------------|
@@ -67,7 +67,7 @@ Sprint 4 ───────────────────────�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## LA_Tecnologias Utilizadas
 
 | Camada | Tecnologia |
 |--------|-----------|
@@ -80,7 +80,7 @@ Sprint 4 ───────────────────────�
 
 ---
 
-## 📁 Estrutura do Projeto
+## LA_Estrutura do Projeto
 
 ```
 avalia-plus/
@@ -106,7 +106,7 @@ avalia-plus/
 
 ---
 
-## ▶️ Como Executar o Projeto
+## LA_Como Executar o Projeto
 
 > ⚠️ O sistema está em desenvolvimento. As instruções de execução serão atualizadas conforme o progresso do projeto.
 
@@ -122,7 +122,7 @@ cd avalia-plus
 
 ---
 
-## 📂 Documentação Completa
+## LA_Documentação Completa
 
 Acesse a pasta [`/docs`](./docs/) para consultar toda a documentação técnica do projeto, incluindo:
 
@@ -135,7 +135,7 @@ Acesse a pasta [`/docs`](./docs/) para consultar toda a documentação técnica 
 
 ---
 
-## 👥 Equipe
+## LA_Equipe
 
 <table align="center">
   <tr>
