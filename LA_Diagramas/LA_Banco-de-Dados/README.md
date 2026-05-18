@@ -1,10 +1,10 @@
-# 🗄️ Banco de Dados – Projeto Avalia+
+# LA_Banco de Dados – Projeto Avalia+
 
 Esta pasta contém a modelagem completa do banco de dados da plataforma Avalia+.
 
 ---
 
-## 📋 Sobre a Modelagem
+##  Sobre a Modelagem
 
 | Artefato | Descrição |
 |----------|-----------|
