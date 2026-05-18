@@ -1,4 +1,4 @@
-# 🎯 Escopo do Projeto – Avalia+
+# LA_Escopo do Projeto – Avalia+
 
 ---
 
