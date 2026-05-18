@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Plataforma web de avaliação acadêmica para estudantes do ensino superior</b><br/>
-  PIM III – Projeto Integrado Multidisciplinar | ADS – UNIP 2026-1
+  LA_PIM III – Projeto Integrado Multidisciplinar | ADS – UNIP 2026-1
 </p>
 
 <p align="center">
