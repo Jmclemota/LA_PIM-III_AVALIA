@@ -4,15 +4,6 @@ Esta pasta contém os diagramas UML do projeto Avalia+, representando a estrutur
 
 ---
 
-## 📁 Arquivos
-
-| Arquivo | Tipo | Descrição |
-|---------|------|-----------|
-| `casos-de-uso` | Diagrama de Casos de Uso | Interações entre usuários e o sistema |
-
-
----
-
 ## 📋 Sobre os Diagramas UML
 
 | Diagrama | Finalidade |
